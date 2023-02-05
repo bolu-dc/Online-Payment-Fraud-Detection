@@ -12,4 +12,3 @@ The following machine learning algorithms were used to understand the patterns o
 
 <img width="562" alt="Screenshot 2023-02-04 at 9 03 08 PM" src="https://user-images.githubusercontent.com/115439640/216800867-b5db888a-a5a0-487e-b0cc-246f66529d33.png">
 
-<img width="562" alt="Screenshot 2023-02-04 at 9 03 08 PM" src="https://user-images.githubusercontent.com/115439640/216840804-750a9ff0-8f13-481d-8ca1-9273de96bc75.png">
